@@ -1,0 +1,148 @@
+ * Serving Flask app "ApplicationManager" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+-1
+{'ApplicationName': 'sample', 'Dependencies': [], 'Algorithm': [{'AlgorithmName': 'algo1', 'sensors': ['gps', 'biometric'], 'sensor_num': [1, 1], 'action': []}, {'AlgorithmName': 'algo2', 'sensors': ['light', 'temperature'], 'sensor_num': ['all', 'all'], 'action': []}, {'AlgorithmName': 'algo3', 'sensors': ['gps'], 'sensor_num': ['all'], 'action': []}, {'AlgorithmName': 'algo4', 'sensors': ['gps'], 'sensor_num': ['all'], 'action': ['callback']}, {'AlgorithmName': 'triggered', 'sensors': [], 'sensor_num': [], 'action': ['email']}]}
+0
+algo1
+./app_repo/sample
+APIS
+off
+off
+off
+0
+algo1
+./app_repo/sample
+APIS
+off
+off
+on
+on
+0
+algo2
+./app_repo/sample
+APIS
+off
+on
+on
+1
+algo3
+./app_repo/sample
+APIS
+off
+0
+algo4
+./app_repo/sample
+APIS
+off
+off
+on
+on
+0
+algo4
+./app_repo/sample
+0
+algo4
+./app_repo/sample
+APIS
+off
+off
+off
+on
+on
+ * Serving Flask app "ApplicationManager" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "ApplicationManager" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+-1
+{'ApplicationName': 'sample', 'Dependencies': [], 'Algorithm': [{'AlgorithmName': 'algo1', 'sensors': ['gps', 'biometric'], 'sensor_num': [1, 1], 'action': []}, {'AlgorithmName': 'algo2', 'sensors': ['light', 'temperature'], 'sensor_num': [1, 1], 'action': []}, {'AlgorithmName': 'algo3', 'sensors': ['gps'], 'sensor_num': ['all'], 'action': []}, {'AlgorithmName': 'algo4', 'sensors': ['gps'], 'sensor_num': ['all'], 'action': ['callback']}, {'AlgorithmName': 'triggered', 'sensors': [], 'sensor_num': [], 'action': ['email']}]}
+0
+algo2
+./app_repo/sample
+APIS
+off
+off
+on
+on
+2
+algo3
+./app_repo/sample
+APIS
+off
+off
+ * Serving Flask app "ApplicationManager" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "ApplicationManager" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "ApplicationManager" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "ApplicationManager" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+Check
+True
+Check
+True
+-1
+{'ApplicationName': 'app2', 'Dependencies': [], 'Algorithm': [{'AlgorithmName': 'pollution', 'sensors': ['air', 'audio'], 'sensor_num': [1, 1], 'action': []}, {'AlgorithmName': 'congestion', 'sensors': ['camera'], 'sensor_num': [1], 'action': []}]}
+0
+pollution
+./app_repo/app2
+APIS
+on
+on
+0
+congestion
+./app_repo/app2
+APIS
+off
+off
+on
+on
+-1
+{'ApplicationName': 'sample', 'Dependencies': [], 'Algorithm': [{'AlgorithmName': 'algo1', 'sensors': ['gps', 'biometric'], 'sensor_num': [1, 1], 'action': []}, {'AlgorithmName': 'algo2', 'sensors': ['light', 'temperature'], 'sensor_num': [1, 1], 'action': []}, {'AlgorithmName': 'algo3', 'sensors': ['gps'], 'sensor_num': ['all'], 'action': []}, {'AlgorithmName': 'algo4', 'sensors': ['gps'], 'sensor_num': ['all'], 'action': ['callback']}, {'AlgorithmName': 'triggered', 'sensors': [], 'sensor_num': [], 'action': ['email']}]}
+Check
+True
+algo3
+./app_repo/sample
+APIS
+off
+ * Serving Flask app "ApplicationManager" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "ApplicationManager" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "ApplicationManager" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on
+ * Serving Flask app "ApplicationManager" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: on

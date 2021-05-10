@@ -1,0 +1,964 @@
+Listening to Deployment Requests on kafka topic
+Listening to Log Requests on kafka topic
+Listening to Stop Requests on kafka topic
+{"User": "user1@xyz", "AlgorithmName": "algo2", "AlgorithmID": "algo2test4"}
+Posting data  {"User": "user1@xyz", "AlgorithmName": "algo2", "AlgorithmID": "algo2test4"}
+sending {"request": "{\"User\": \"user1@xyz\", \"AlgorithmName\": \"algo2\", \"AlgorithmID\": \"algo2test4\"}", "response": "810361375aa62eb24423dcc406d8f37208732c023ce680237e9bd216fc011dc5"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test4', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\nSwitch off the ac!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test4', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\nSwitch off the ac!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\nSwitch off the ac!!!\n\n\n\n\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test4', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\nSwitch off the ac!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\nSwitch off the ac!!!\n\n\n\n\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test4', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\nSwitch off the ac!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\nSwitch off the ac!!!\n\n\n\n\n\n\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\n\n\n\n\n\n\nSwitch on the ac!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test4', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\nSwitch off the ac!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\nSwitch off the ac!!!\n\n\n\n\n\n\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\n\n\n\n\n\n\nSwitch on the ac!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test4', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\nSwitch off the ac!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\nSwitch off the ac!!!\n\n\n\n\n\n\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\n\n\n\n\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch off the ac!!!\nSwitch off the ac!!!\n\n\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test4', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\nSwitch off the ac!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\nSwitch off the ac!!!\n\n\n\n\n\n\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the ac!!!\nSwitch on the ac!!!\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\n\n\n\n\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch on the light!!!\nSwitch on the light!!!\n\n\n\n\nSwitch on the ac!!!\nSwitch on the ac!!!\n\n\n\n\nSwitch off the ac!!!\nSwitch off the ac!!!\n\n\n\n"}
+{'User': 'user1@xyz', 'AlgorithmName': 'algo2', 'AlgorithmID': 'algo2test4'}
+Sending Response :  {"Status": "OK", "Message": "Stopped container with id 810361375aa62eb24423dcc406d8f37208732c023ce680237e9bd216fc011dc5 Successfully"}
+Listening to Deployment Requests on kafka topic
+Listening to Log Requests on kafka topic
+Listening to Stop Requests on kafka topic
+Listening to Deployment Requests on kafka topic
+Listening to Stop Requests on kafka topic
+Listening to Log Requests on kafka topic
+Listening to Deployment Requests on kafka topic
+Listening to Stop Requests on kafka topic
+Listening to Log Requests on kafka topic
+{"User": "user1@xyz", "AlgorithmName": "algo2", "AlgorithmID": "algo2test5"}
+Posting data  {"User": "user1@xyz", "AlgorithmName": "algo2", "AlgorithmID": "algo2test5"}
+sending {"request": "{\"User\": \"user1@xyz\", \"AlgorithmName\": \"algo2\", \"AlgorithmID\": \"algo2test5\"}", "response": "d8f08e580efa418df6acf07c8b1d9d270b845a02337bb99f19220663c28f42e0"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch off the ac!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch off the ac!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo2test5', 'AlgorithmName': 'algo2'}
+Sending Response :  {"Status": "OK", "Message": "{'sensorType': 'light', 'locationId': 'bus3'}\n{'sensorType': 'temperature', 'locationId': 'bus3'}\n\nSwitch off the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch off the ac!!!\n\n\nSwitch on the ac!!!\n\n\nSwitch on the light!!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmName': 'algo2', 'AlgorithmID': 'algo2test5'}
+Sending Response :  {"Status": "OK", "Message": "Stopped container with id d8f08e580efa418df6acf07c8b1d9d270b845a02337bb99f19220663c28f42e0 Successfully"}
+{"User": "user1@xyz", "AlgorithmName": "algo3", "AlgorithmID": "algo3test4"}
+Posting data  {"User": "user1@xyz", "AlgorithmName": "algo3", "AlgorithmID": "algo3test4"}
+sending {"request": "{\"User\": \"user1@xyz\", \"AlgorithmName\": \"algo3\", \"AlgorithmID\": \"algo3test4\"}", "response": "d69a5148ae1185d60c479e95930b17e77a70c8235f1801587c7eb4a01f0d72e5"}
+{"User": "user1@xyz", "AlgorithmName": "algo3", "AlgorithmID": "algo3test4"}
+Posting data  {"User": "user1@xyz", "AlgorithmName": "algo3", "AlgorithmID": "algo3test4"}
+sending {"request": "{\"User\": \"user1@xyz\", \"AlgorithmName\": \"algo3\", \"AlgorithmID\": \"algo3test4\"}", "response": "444865f421b055dd96bfe32c7af7ad34cff415854e8e9a1cf29cb25a5fb7c104"}
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7230f525e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7230f52580>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7230f52e50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7230f528b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7230f51ac0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f72304cb400>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7230532e50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f72304b6730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7230f573a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f723050fa90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f72304bca90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f72304cc160>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7230524160>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f72304c9520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f7230564af0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='100.25.205.46', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f72304b7250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Listening to Deployment Requests on kafka topic
+Listening to Log Requests on kafka topic
+Listening to Stop Requests on kafka topic
+HTTPConnectionPool(host='54.196.149.36', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f854c3ac610>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+{"User": "user1@xyz", "AlgorithmName": "pollution", "AlgorithmID": "pollution2"}
+Posting data  {"User": "user1@xyz", "AlgorithmName": "pollution", "AlgorithmID": "pollution2"}
+sending {"request": "{\"User\": \"user1@xyz\", \"AlgorithmName\": \"pollution\", \"AlgorithmID\": \"pollution2\"}", "response": "7530c404ad62b72ae4fa3cf9720062d59c13e15660a96aae37a3d259348762b6"}
+{'User': 'user1@xyz', 'AlgorithmID': 'pollution2', 'AlgorithmName': 'pollution'}
+Sending Response :  {"Status": "OK", "Message": "Low Noise Pollution !!!\n\nHigh Noise Pollution !!!\n\nModerate Air Quality !!! and \nLow Noise Pollution !!!\n\nVery Unhealthy Air Quality !!! and \nLow Noise Pollution !!!\n\nLow Noise Pollution !!!\n\n\nUnhealthy Air Quality !!! and Low Noise Pollution !!!\n\nUnhealthy for Sensitive Air Quality !!! and \n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'pollution2', 'AlgorithmName': 'pollution'}
+Sending Response :  {"Status": "OK", "Message": "Low Noise Pollution !!!\n\nHigh Noise Pollution !!!\n\nModerate Air Quality !!! and \nLow Noise Pollution !!!\n\nVery Unhealthy Air Quality !!! and \nLow Noise Pollution !!!\n\nLow Noise Pollution !!!\n\n\nUnhealthy Air Quality !!! and Low Noise Pollution !!!\n\nUnhealthy for Sensitive Air Quality !!! and \nHigh Noise Pollution !!!\n\nVery Unhealthy Air Quality !!! and \n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'pollution2', 'AlgorithmName': 'pollution'}
+Sending Response :  {"Status": "OK", "Message": "Low Noise Pollution !!!\n\nHigh Noise Pollution !!!\n\nModerate Air Quality !!! and \nLow Noise Pollution !!!\n\nVery Unhealthy Air Quality !!! and \nLow Noise Pollution !!!\n\nLow Noise Pollution !!!\n\n\nUnhealthy Air Quality !!! and Low Noise Pollution !!!\n\nUnhealthy for Sensitive Air Quality !!! and \nHigh Noise Pollution !!!\n\nVery Unhealthy Air Quality !!! and \nLow Noise Pollution !!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'pollution2', 'AlgorithmName': 'pollution'}
+Sending Response :  {"Status": "OK", "Message": "Low Noise Pollution !!!\n\nHigh Noise Pollution !!!\n\nModerate Air Quality !!! and \nLow Noise Pollution !!!\n\nVery Unhealthy Air Quality !!! and \nLow Noise Pollution !!!\n\nLow Noise Pollution !!!\n\n\nUnhealthy Air Quality !!! and Low Noise Pollution !!!\n\nUnhealthy for Sensitive Air Quality !!! and \nHigh Noise Pollution !!!\n\nVery Unhealthy Air Quality !!! and \nLow Noise Pollution !!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'pollution2', 'AlgorithmName': 'pollution'}
+Sending Response :  {"Status": "OK", "Message": "Low Noise Pollution !!!\n\nHigh Noise Pollution !!!\n\nModerate Air Quality !!! and \nLow Noise Pollution !!!\n\nVery Unhealthy Air Quality !!! and \nLow Noise Pollution !!!\n\nLow Noise Pollution !!!\n\n\nUnhealthy Air Quality !!! and Low Noise Pollution !!!\n\nUnhealthy for Sensitive Air Quality !!! and \nHigh Noise Pollution !!!\n\nVery Unhealthy Air Quality !!! and \nLow Noise Pollution !!!\n\nHigh Noise Pollution !!!\n\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'pollution2', 'AlgorithmName': 'pollution'}
+Sending Response :  {"Status": "OK", "Message": "Low Noise Pollution !!!\n\nHigh Noise Pollution !!!\n\nModerate Air Quality !!! and \nLow Noise Pollution !!!\n\nVery Unhealthy Air Quality !!! and \nLow Noise Pollution !!!\n\nLow Noise Pollution !!!\n\n\nUnhealthy Air Quality !!! and Low Noise Pollution !!!\n\nUnhealthy for Sensitive Air Quality !!! and \nHigh Noise Pollution !!!\n\nVery Unhealthy Air Quality !!! and \nLow Noise Pollution !!!\n\nHigh Noise Pollution !!!\n\n\n"}
+{'User': 'user1@xyz', 'AlgorithmName': 'pollution', 'AlgorithmID': 'pollution2'}
+Sending Response :  {"Status": "OK", "Message": "Stopped container with id 7530c404ad62b72ae4fa3cf9720062d59c13e15660a96aae37a3d259348762b6 Successfully"}
+{"User": "user1@xyz", "AlgorithmName": "congestion", "AlgorithmID": "congestion2"}
+Posting data  {"User": "user1@xyz", "AlgorithmName": "congestion", "AlgorithmID": "congestion2"}
+sending {"request": "{\"User\": \"user1@xyz\", \"AlgorithmName\": \"congestion\", \"AlgorithmID\": \"congestion2\"}", "response": "c2ade24384e9bc0050d8a08b3da2668f0b6cb8f22c0db38b2ff75833e8381f39"}
+{'User': 'user1@xyz', 'AlgorithmID': 'congestion2', 'AlgorithmName': 'congestion'}
+Sending Response :  {"Status": "OK", "Message": "\nMedium Congestion !!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'congestion2', 'AlgorithmName': 'congestion'}
+Sending Response :  {"Status": "OK", "Message": "\nMedium Congestion !!!\n\n\nMedium Congestion !!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'congestion2', 'AlgorithmName': 'congestion'}
+Sending Response :  {"Status": "OK", "Message": "\nMedium Congestion !!!\n\n\nMedium Congestion !!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'congestion2', 'AlgorithmName': 'congestion'}
+Sending Response :  {"Status": "OK", "Message": "\nMedium Congestion !!!\n\n\nMedium Congestion !!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'congestion2', 'AlgorithmName': 'congestion'}
+Sending Response :  {"Status": "OK", "Message": "\nMedium Congestion !!!\n\n\nMedium Congestion !!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'congestion2', 'AlgorithmName': 'congestion'}
+Sending Response :  {"Status": "OK", "Message": "\nMedium Congestion !!!\n\n\nMedium Congestion !!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'congestion2', 'AlgorithmName': 'congestion'}
+Sending Response :  {"Status": "OK", "Message": "\nMedium Congestion !!!\n\n\nMedium Congestion !!!\n\n\nLow Congestion !!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'congestion2', 'AlgorithmName': 'congestion'}
+Sending Response :  {"Status": "OK", "Message": "\nMedium Congestion !!!\n\n\nMedium Congestion !!!\n\n\nLow Congestion !!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'congestion2', 'AlgorithmName': 'congestion'}
+Sending Response :  {"Status": "OK", "Message": "\nMedium Congestion !!!\n\n\nMedium Congestion !!!\n\n\nLow Congestion !!!\n\n"}
+{'User': 'user1@xyz', 'AlgorithmName': 'congestion', 'AlgorithmID': 'congestion2'}
+Sending Response :  {"Status": "OK", "Message": "Stopped container with id c2ade24384e9bc0050d8a08b3da2668f0b6cb8f22c0db38b2ff75833e8381f39 Successfully"}
+('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+HTTPConnectionPool(host='34.229.159.53', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f854f5a1940>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='35.153.51.81', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f854f5a1790>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='34.229.159.53', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f854c448520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Listening to Deployment Requests on kafka topic
+Listening to Log Requests on kafka topic
+Listening to Stop Requests on kafka topic
+HTTPConnectionPool(host='34.204.61.178', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426447e850>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+{"User": "user1@xyz", "AlgorithmName": "algo1", "AlgorithmID": "algo1test1"}
+Posting data  {"User": "user1@xyz", "AlgorithmName": "algo1", "AlgorithmID": "algo1test1"}
+sending {"request": "{\"User\": \"user1@xyz\", \"AlgorithmName\": \"algo1\", \"AlgorithmID\": \"algo1test1\"}", "response": "971c0e30f111d10f4727d2fddb6bdf95b358aa375236ebcc59715918d58a28f3"}
+HTTPConnectionPool(host='3.81.226.229', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426442af70>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\nFare of Person  p65  is INR  80\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\nFare of Person  p65  is INR  80\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\nFare of Person  p65  is INR  80\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\nFare of Person  p65  is INR  80\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\nFare of Person  p65  is INR  80\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\nFare of Person  p65  is INR  80\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\nFare of Person  p65  is INR  80\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\nFare of Person  p65  is INR  80\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\nFare of Person  p65  is INR  80\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p48  is INR  85\nFare of Person  p9  is INR  205\nFare of Person  p32  is INR  290\nFare of Person  p38  is INR  5\nFare of Person  p61  is INR  50\nFare of Person  p19  is INR  65\nFare of Person  p65  is INR  80\n"}
+HTTPConnectionPool(host='54.157.137.226', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42643e9280>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.157.137.226', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42643e43d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+{"User": "user1@xyz", "AlgorithmName": "algo2", "AlgorithmID": "algo2test1"}
+Posting data  {"User": "user1@xyz", "AlgorithmName": "algo2", "AlgorithmID": "algo2test1"}
+Invalid URL '': No schema supplied. Perhaps you meant http://?
+HTTPConnectionPool(host='54.157.137.226', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42643f7790>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426447ea30>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426442a4f0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42643d0910>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4264478f10>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42643fb100>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42643d7040>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42643d7d30>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4264370040>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4264370e50>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42643ed3a0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4264387160>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4264387e50>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426438fb80>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.157.137.226', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426439ed60>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42643e3c70>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426438f4f0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42644041f0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426432faf0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426447e2b0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426434f250>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426435d2b0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426440b6d0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426442af70>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4264363c10>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42642fd250>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /GetLogs (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42642eea00>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+HTTPConnectionPool(host='54.91.249.41', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42643edbb0>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+HTTPConnectionPool(host='54.157.137.226', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42643e1310>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+HTTPConnectionPool(host='54.157.137.226', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f42643e9670>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+HTTPConnectionPool(host='54.157.137.226', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f426432fc10>: Failed to establish a new connection: [Errno 110] Connection timed out'))
+Listening to Deployment Requests on kafka topic
+Listening to Stop Requests on kafka topic
+Listening to Log Requests on kafka topic
+Listening to Deployment Requests on kafka topic
+Listening to Stop Requests on kafka topic
+Listening to Log Requests on kafka topic
+{"User": "user1@xyz", "AlgorithmName": "algo1", "AlgorithmID": "algo1test1"}
+{"User": "user1@xyz", "AlgorithmName": "algo1", "AlgorithmID": "algo1test1"}
+Listening to Deployment Requests on kafka topic
+Listening to Stop Requests on kafka topic
+Listening to Log Requests on kafka topic
+Posting data  {"User": "user1@xyz", "AlgorithmName": "algo1", "AlgorithmID": "algo1test1"}
+Posting data  {"User": "user1@xyz", "AlgorithmName": "algo1", "AlgorithmID": "algo1test1"}
+sending {"request": "{\"User\": \"user1@xyz\", \"AlgorithmName\": \"algo1\", \"AlgorithmID\": \"algo1test1\"}", "response": "36b5d7a5100ac646f9f7857601430445544e22802dc5a96ae0a30a1ae30830a8"}
+sending {"request": "{\"User\": \"user1@xyz\", \"AlgorithmName\": \"algo1\", \"AlgorithmID\": \"algo1test1\"}", "response": "b05347409a8e5327eeb361440d2b270d432ed3aa1f7098d799cb26493d7d4f9d"}
+Listening to Deployment Requests on kafka topic
+Listening to Stop Requests on kafka topic
+Listening to Log Requests on kafka topic
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test1'}
+Sending Response :  {"Status": "OK", "Message": "Stopped container with id 36b5d7a5100ac646f9f7857601430445544e22802dc5a96ae0a30a1ae30830a8 Successfully"}
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f43143910d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f4314394730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0630416f10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7f0630458ac0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Listening to Deployment Requests on kafka topic
+Listening to Stop Requests on kafka topic
+Listening to Log Requests on kafka topic
+{"User": "admin@platform", "AlgorithmName": "algo1", "AlgorithmID": "algo1test1"}
+Posting data  {"User": "admin@platform", "AlgorithmName": "algo1", "AlgorithmID": "algo1test1"}
+sending {"request": "{\"User\": \"admin@platform\", \"AlgorithmName\": \"algo1\", \"AlgorithmID\": \"algo1test1\"}", "response": "913270f4e5e245c1d21d9391489a95c9ae056672bc37eae622770c971085a10c"}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'admin@platform', 'AlgorithmID': 'algo1test1', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{"User": "user1@xyz", "AlgorithmName": "algo1", "AlgorithmID": "algo1test2"}
+Posting data  {"User": "user1@xyz", "AlgorithmName": "algo1", "AlgorithmID": "algo1test2"}
+sending {"request": "{\"User\": \"user1@xyz\", \"AlgorithmName\": \"algo1\", \"AlgorithmID\": \"algo1test2\"}", "response": "cb784670d26250c940cc3cce4deb2c761cd83ae3c31e94e9d32ee130d9391f7d"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Exception ignored in: <module 'threading' from '/usr/local/lib/python3.7/threading.py'>\nTraceback (most recent call last):\n  File \"/usr/local/lib/python3.7/threading.py\", line 1307, in _shutdown\n    lock.acquire()\nKeyboardInterrupt\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test2', 'AlgorithmName': 'algo1'}
+'Response' object is not subscriptable
+Sending Response :  {"Status": "KO", "Message": "GetLogs Failed"}
+{"User": "user1@xyz", "AlgorithmName": "algo1", "AlgorithmID": "algo1test3"}
+Posting data  {"User": "user1@xyz", "AlgorithmName": "algo1", "AlgorithmID": "algo1test3"}
+sending {"request": "{\"User\": \"user1@xyz\", \"AlgorithmName\": \"algo1\", \"AlgorithmID\": \"algo1test3\"}", "response": "237f88d0c187fa7dd19fd03dabbc601c7247f6b4c9b8fe374885fa07ffebec83"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": ""}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\nFare of Person  p55  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\nFare of Person  p55  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\nFare of Person  p55  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test3', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p28  is INR  225\nFare of Person  p55  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test3'}
+Sending Response :  {"Status": "OK", "Message": "Stopped container with id 237f88d0c187fa7dd19fd03dabbc601c7247f6b4c9b8fe374885fa07ffebec83 Successfully"}
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb24015a700>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fb24015e460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Listening to Deployment Requests on kafka topic
+Listening to Stop Requests on kafka topic
+Listening to Log Requests on kafka topic
+{"User": "user1@xyz", "AlgorithmName": "algo1", "AlgorithmID": "algo1test6"}
+Posting data  {"User": "user1@xyz", "AlgorithmName": "algo1", "AlgorithmID": "algo1test6"}
+sending {"request": "{\"User\": \"user1@xyz\", \"AlgorithmName\": \"algo1\", \"AlgorithmID\": \"algo1test6\"}", "response": "95477dff87c586c33254307a76ae8e6b0d940805dd2a82dfba0101ba32eab429"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\nFare of Person  p75  is INR  425\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\nFare of Person  p75  is INR  425\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\nFare of Person  p75  is INR  425\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\nFare of Person  p75  is INR  425\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\nFare of Person  p75  is INR  425\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\nFare of Person  p75  is INR  425\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\nFare of Person  p75  is INR  425\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\nFare of Person  p75  is INR  425\n"}
+{'User': 'user1@xyz', 'AlgorithmID': 'algo1test6', 'AlgorithmName': 'algo1'}
+Sending Response :  {"Status": "OK", "Message": "Fare of Person  p35  is INR  250\nFare of Person  p34  is INR  260\nFare of Person  p98  is INR  10\nFare of Person  p40  is INR  250\nFare of Person  p75  is INR  425\n"}
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848089fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f2340>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877a250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc849aa70d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f6580>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f6280>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f8160>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848a30a60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387d2850>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848084a00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387ef220>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848a307f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848a30f70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387eff70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387eff70>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877e520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877ed60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877eeb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877eac0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f6040>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848044ee0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f29a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387ef1f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387d2250>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8480676a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877ad90>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc849aa70a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc849aa7130>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f07f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877e7c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877e730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387efd00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387ce190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877eb20>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8480480d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f8a60>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f6820>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f2c10>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877aac0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f6940>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f8130>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387ef820>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387efcd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387d27f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387bb310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f2790>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877e640>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877adc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc849aa72e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8480361f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387c20d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc849aa7880>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848089cd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848044220>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc849aa7520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc849aa76a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387ef3a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387d2190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f0490>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc849aa7760>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848067c40>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387ef8e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387ef730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387efa00>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387efdc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f0eb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848084fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848044310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387ef580>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877a700>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8480f05b0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f8190>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848a30b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc838782b80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc838782fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8480847c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848044a30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f6670>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f01f0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387ef5e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848089b50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f83a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f2af0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f2370>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848a309d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387826a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc848089be0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f6970>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877e6a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f05e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc849aa7160>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8480673a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f0fd0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877eb80>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc838782790>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387d2d30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f6460>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8480897c0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f0280>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc83877a520>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f2580>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.194.17', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc838782730>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387f0d30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.194.17', port=40000): Max retries exceeded with url: /RestartFailedContainer (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387ef9a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+HTTPConnectionPool(host='54.162.90.122', port=40000): Max retries exceeded with url: /GetAllContainersStatus (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x7fc8387d2970>: Failed to establish a new connection: [Errno 110] Connection timed out'))

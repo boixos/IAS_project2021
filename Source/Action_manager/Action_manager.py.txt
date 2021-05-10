@@ -1,0 +1,633 @@
+Action Manager is Running
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Action Manager is Running
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus1'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'buzzer', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'buzzer', 'locationId': 'bus4'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'buzzer', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'buzzer', 'locationId': 'bus4'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'buzzer', 'locationId': 'bus3'}}
+Action Manager is Running
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'signal', 'locationId': 'Sector2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'signal', 'locationId': 'Sector2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'signal', 'locationId': 'Sector2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '2', 'sensorType': 'signal', 'locationId': 'Sector2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'signal', 'locationId': 'Sector2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '2', 'sensorType': 'signal', 'locationId': 'Sector2'}}
+Action Manager is Running
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'buzzer', 'locationId': 'bus2'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'buzzer', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'buzzer', 'locationId': 'bus4'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'buzzer', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'buzzer', 'locationId': 'bus4'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '0', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'light_con', 'locationId': 'bus3'}}
+Hello
+{'action_type': 'control', 'sensor_info': {'sensor_type': None, 'location_id': None, 'action': '1', 'sensorType': 'ac', 'locationId': 'bus3'}}
+Action Manager is Running
+Action Manager is Running
+Action Manager is Running
