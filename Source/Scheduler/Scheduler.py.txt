@@ -1,0 +1,99 @@
+Scheduling Started.....
+Waiting for Application Manager..
+{'user': 'user1@xyz', 'algorithmid': 'algo2test4'}
+Application Scheduled to run -  algo2test4
+{'_id': ObjectId('60968e4c1b027f2322c7b903'), 'email': 'user1@xyz', 'AlgorithmName': 'algo2', 'AlgorithmID': 'algo2test4', 'run_type': 'now', 'sensor': {'light': ['all'], 'temperature': ['all']}, 'action': {}, 'interval': '0'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'algo2', 'AlgorithmID': 'algo2test4'}
+{'req_type': 'stop', 'user': 'user1@xyz', 'algo_name': 'algo2', 'algo_id': 'algo2test4'}
+check
+Scheduling Started.....
+Waiting for Application Manager..
+Scheduling Started.....
+Waiting for Application Manager..
+Scheduling Started.....
+Waiting for Application Manager..
+Scheduling Started.....
+Waiting for Application Manager..
+Scheduling Started.....
+Waiting for Application Manager..
+Scheduling Started.....
+Waiting for Application Manager..
+Scheduling Started.....
+Waiting for Application Manager..
+{'user': 'user1@xyz', 'algorithmid': 'algo2test5'}
+Application Scheduled to run -  algo2test5
+{'_id': ObjectId('609695a8fe4c4de353c715be'), 'email': 'user1@xyz', 'AlgorithmName': 'algo2', 'AlgorithmID': 'algo2test5', 'run_type': 'now', 'sensor': {'light': ['bus3'], 'temperature': ['bus3']}, 'action': {}, 'interval': '0'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'algo2', 'AlgorithmID': 'algo2test5'}
+{'req_type': 'stop', 'user': 'user1@xyz', 'algo_name': 'algo2', 'algo_id': 'algo2test5'}
+check
+{'user': 'user1@xyz', 'algorithmid': 'algo3test4'}
+Application Scheduled to run -  algo3test4
+{'_id': ObjectId('609695e3fe4c4de353c715bf'), 'email': 'user1@xyz', 'AlgorithmName': 'algo3', 'AlgorithmID': 'algo3test4', 'run_type': 'now', 'sensor': {'gps': ['all']}, 'action': {}, 'interval': '2'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'algo3', 'AlgorithmID': 'algo3test4'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'algo3', 'AlgorithmID': 'algo3test4'}
+Scheduling Started.....
+Waiting for Application Manager..
+{'user': 'user1@xyz', 'algorithmid': 'pollution2'}
+Application Scheduled to run -  pollution2
+{'_id': ObjectId('6096c31d59ed50855a8c3704'), 'email': 'user1@xyz', 'AlgorithmName': 'pollution', 'AlgorithmID': 'pollution2', 'run_type': 'now', 'sensor': {'air': ['Sector1'], 'audio': ['Sector1']}, 'action': {}, 'interval': '0'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'pollution', 'AlgorithmID': 'pollution2'}
+{'req_type': 'stop', 'user': 'user1@xyz', 'algo_name': 'pollution', 'algo_id': 'pollution2'}
+check
+{'user': 'user1@xyz', 'algorithmid': 'congestion2'}
+Application Scheduled to run -  congestion2
+{'_id': ObjectId('6096c34a59ed50855a8c3705'), 'email': 'user1@xyz', 'AlgorithmName': 'congestion', 'AlgorithmID': 'congestion2', 'run_type': 'now', 'sensor': {'camera': ['Sector2']}, 'action': {}, 'interval': '0'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'congestion', 'AlgorithmID': 'congestion2'}
+{'req_type': 'stop', 'user': 'user1@xyz', 'algo_name': 'congestion', 'algo_id': 'congestion2'}
+check
+Scheduling Started.....
+Waiting for Application Manager..
+{'user': 'user1@xyz', 'algorithmid': 'algo1test1'}
+Application Scheduled to run -  algo1test1
+{'_id': ObjectId('60977044aa70ebc4fd4d7ad6'), 'email': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test1', 'run_type': 'now', 'sensor': {'gps': ['bus1'], 'biometric': ['bus1']}, 'action': {}, 'interval': '0'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test1'}
+{'user': 'user1@xyz', 'algorithmid': 'algo2test1'}
+Application Scheduled to run -  algo2test1
+{'_id': ObjectId('60977113aa70ebc4fd4d7ad7'), 'email': 'user1@xyz', 'AlgorithmName': 'algo2', 'AlgorithmID': 'algo2test1', 'run_type': 'now', 'sensor': {'light': ['bus1'], 'temperature': ['bus1']}, 'action': {}, 'interval': '0'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'algo2', 'AlgorithmID': 'algo2test1'}
+Scheduling Started.....
+Waiting for Application Manager..
+Scheduling Started.....
+Waiting for Application Manager..
+Scheduling Started.....
+Waiting for Application Manager..
+Scheduling Started.....
+Waiting for Application Manager..
+{'user': 'user1@xyz', 'algorithmid': 'algo1test1'}
+{'user': 'user1@xyz', 'algorithmid': 'algo1test1'}
+Application Scheduled to run -  algo1test1
+{'_id': ObjectId('609780ed1249266609a6fbf5'), 'email': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test1', 'run_type': 'now', 'sensor': {'gps': ['bus1'], 'biometric': ['bus1']}, 'action': {}, 'interval': '0'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test1'}
+Application Scheduled to run -  algo1test1
+{'_id': ObjectId('609780ed1249266609a6fbf5'), 'email': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test1', 'run_type': 'now', 'sensor': {'gps': ['bus1'], 'biometric': ['bus1']}, 'action': {}, 'interval': '0'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test1'}
+Scheduling Started.....
+Waiting for Application Manager..
+{'req_type': 'stop', 'user': 'user1@xyz', 'algo_name': 'algo1', 'algo_id': 'algo1test1'}
+check
+Scheduling Started.....
+Waiting for Application Manager..
+{'user': 'admin@platform', 'algorithmid': 'algo1test1'}
+Application Scheduled to run -  algo1test1
+{'_id': ObjectId('60978268c6e690beb6a5db85'), 'email': 'admin@platform', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test1', 'run_type': 'now', 'sensor': {'gps': ['bus1'], 'biometric': ['bus1']}, 'action': {}, 'interval': '0'}
+to deployer {'User': 'admin@platform', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test1'}
+{'user': 'user1@xyz', 'algorithmid': 'algo1test2'}
+Application Scheduled to run -  algo1test2
+{'_id': ObjectId('609782cbc6e690beb6a5db86'), 'email': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test2', 'run_type': 'now', 'sensor': {'gps': ['bus1'], 'biometric': ['bus1']}, 'action': {}, 'interval': '0'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test2'}
+{'user': 'user1@xyz', 'algorithmid': 'algo1test3'}
+Application Scheduled to run -  algo1test3
+{'_id': ObjectId('6097836ec6e690beb6a5db87'), 'email': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test3', 'run_type': 'now', 'sensor': {'gps': ['bus1'], 'biometric': ['bus1']}, 'action': {}, 'interval': '0'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test3'}
+{'req_type': 'stop', 'user': 'user1@xyz', 'algo_name': 'algo1', 'algo_id': 'algo1test3'}
+check
+Scheduling Started.....
+Waiting for Application Manager..
+{'user': 'user1@xyz', 'algorithmid': 'algo1test6'}
+Application Scheduled to run -  algo1test6
+{'_id': ObjectId('6097901341851cc4fbd41b4b'), 'email': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test6', 'run_type': 'now', 'sensor': {'gps': ['bus1'], 'biometric': ['bus1']}, 'action': {}, 'interval': '0'}
+to deployer {'User': 'user1@xyz', 'AlgorithmName': 'algo1', 'AlgorithmID': 'algo1test6'}
